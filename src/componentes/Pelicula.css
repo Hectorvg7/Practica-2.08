@@ -1,0 +1,15 @@
+#pelicula {
+    width: 99%;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    background-color: bisque;
+}
+
+.imagen {
+    width: 50%;
+    height: 50%;
+}
+
+.oculto {
+    display: none;
+}
